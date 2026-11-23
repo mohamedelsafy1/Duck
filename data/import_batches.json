@@ -1,0 +1,30 @@
+[
+  {
+    "id": "batch-1792185758518-wj86",
+    "fileName": "campaign_feb.csv",
+    "fileFormat": "csv",
+    "importedAt": "2026-10-16T21:22:38.518Z",
+    "importedBy": "local_user",
+    "totalDetected": 2,
+    "insertedCount": 1,
+    "skippedDuplicatesCount": 0,
+    "invalidCount": 1,
+    "failedCount": 0,
+    "status": "completed",
+    "notes": "تم الاستيراد مع 1 سجل مرشح."
+  },
+  {
+    "id": "batch-initial-seed",
+    "fileName": "seed_verified_marketing_records.jsonl",
+    "fileFormat": "jsonl",
+    "importedAt": "2026-10-13T21:17:04.002Z",
+    "importedBy": "system_initializer",
+    "totalDetected": 4,
+    "insertedCount": 4,
+    "skippedDuplicatesCount": 0,
+    "invalidCount": 0,
+    "failedCount": 0,
+    "status": "completed",
+    "notes": "دفعة البيانات المرجعية الأولية المعتمدة للمنصة"
+  }
+]

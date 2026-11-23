@@ -1,0 +1,7 @@
+{
+  "name": "AI Marketing Lab",
+  "description": "مختبر برومبتات التسويق الذكي — مساحة عمل متكاملة لاختبار برومبتات التسويق، توليد نماذج Briefs، تشغيل التجارب، وتقييم المخرجات آلياً وبشرياً.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
